@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neptunus</h1>
-<h3 align="center">Professional Promblem Creator (and Solver)</h3>
+<h3 align="center">Professional Problem Creator (and Solver)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neptunus-arch&label=Profile%20views&color=0e75b6&style=flat" alt="neptunus-arch" /> </p>
 
