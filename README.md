@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python, Telegram Bots, MikroTik, Cisco, Huawei, Linux & Networking**
 
-- 📫 How to reach me **t.me/@arkanfeb**
+- 📫 How to reach me **t.me/arkanfeb**
 
 - ⚡ Fun fact **There is no place like 127.0.0.1**
 
