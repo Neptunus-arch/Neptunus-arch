@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neptunus</h1>
-<h3 align="center">Professional Problem Creator (and Solver)</h3>
+<h3 align="center">Professional Promblem Creator (and Solver)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neptunus-arch&label=Profile%20views&color=0e75b6&style=flat" alt="neptunus-arch" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python, Telegram Bots, MikroTik, Cisco, Huawei, Linux & Networking**
 
-- 📫 How to reach me **arkanfebriansyah048@gmail.com**
+- 📫 How to reach me **t.me/@arkanfeb**
 
 - ⚡ Fun fact **There is no place like 127.0.0.1**
 
